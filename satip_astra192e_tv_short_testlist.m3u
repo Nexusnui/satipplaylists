@@ -51,3 +51,9 @@ rtsp://sat.ip/?src=2&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=2
 rtsp://sat.ip/?src=2&freq=11362&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6100,6110,6120,6130
 #EXTINF:0,zdf_neo HD
 rtsp://sat.ip/?src=2&freq=11362&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6300,6310,6320,6330
+#EXTINF:0,N-JOY
+rtsp://sat.ip/?src=2&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,230,231
+#EXTINF:0,NDR 2 NDS
+rtsp://sat.ip/?src=2&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,200,201
+#EXTINF:0,YOU FM
+rtsp://sat.ip/?src=2&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,740,741
