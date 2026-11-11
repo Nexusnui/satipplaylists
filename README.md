@@ -1,3 +1,7 @@
+# Über diesen Fork
+
+In diesem Fork wurde der DiSEqC in allen Listen auf '2' (`src=2`) gesetzt. Ansonsten gibt es noch einen Branch mit Listen die ich für Tests verwende.
+
 # SAT>IP M3U playlists
 
 Da die "Standardplaylist" (auf satip.info) seit Jahren nicht mehr gepflegt wird, (bzw. die Webseite nicht mehr erreichbar ist) hier eine Playlist mit den relevanten FTA Sendern auf Astra 19.2E. Mittels VLC und einem SAT>IP-Server kann somit der Empfang starten.
@@ -19,7 +23,7 @@ Im VLC:
 - Diensterkennung
 - UPnP
 - SAT>IP Senderliste "Benutzerdefinierte Liste"
-- Eintragen: https://raw.githubusercontent.com/dersnyke/satipplaylists/main/satip_astra192e.m3u
+- Eintragen: https://raw.githubusercontent.com/Nexusnui/satipplaylists/main/satip_astra192e.m3u
 
 So wird bei jedem Start die aktuelle Version geladen.
 
