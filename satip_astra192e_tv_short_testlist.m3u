@@ -4,11 +4,11 @@ rtsp://sat.ip/?src=2&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=2
 #EXTINF:0,BR Fernsehen Sued HD
 rtsp://sat.ip/?src=2&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5200,5201,5202,5203,5204,5206,5207
 #EXTINF:0,Comedy Central
-rtsp://sat.ip/?src=2&freq=11973&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,416,4061,4062,4063
+rtsp://sat.ip/?src=2&freq=11973&pol=v&ro=0.35&msys=dvbs2&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,416,4061,4062,4063
 #EXTINF:0,Das Erste HD
 rtsp://sat.ip/?src=2&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5100,5101,5102,5104
 #EXTINF:0,Disney Channel
-rtsp://sat.ip/?src=2&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,115,2047,2048
+rtsp://sat.ip/?src=2&freq=12460&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,115,2047,2048
 #EXTINF:0,DMAX
 rtsp://sat.ip/?src=2&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,3327,3328,108,44
 #EXTINF:0,DOKUSAT
@@ -57,3 +57,5 @@ rtsp://sat.ip/?src=2&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=
 rtsp://sat.ip/?src=2&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,200,201
 #EXTINF:0,YOU FM
 rtsp://sat.ip/?src=2&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,740,741
+#EXTINF:0,3sat HD
+rtsp://sat.ip/?src=2&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6500,6510,6520,6530
